@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\bin\Debug\netcoreapp3.1\HT3_201020614.exe
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\bin\Debug\netcoreapp3.1\HT3_201020614.deps.json
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\bin\Debug\netcoreapp3.1\HT3_201020614.runtimeconfig.json
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\bin\Debug\netcoreapp3.1\HT3_201020614.runtimeconfig.dev.json
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\bin\Debug\netcoreapp3.1\HT3_201020614.dll
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\bin\Debug\netcoreapp3.1\HT3_201020614.pdb
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\obj\Debug\netcoreapp3.1\HT3_201020614.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\obj\Debug\netcoreapp3.1\HT3_201020614.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\obj\Debug\netcoreapp3.1\HT3_201020614.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\obj\Debug\netcoreapp3.1\HT3_201020614.AssemblyInfo.cs
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\obj\Debug\netcoreapp3.1\HT3_201020614.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\obj\Debug\netcoreapp3.1\HT3_201020614.dll
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\obj\Debug\netcoreapp3.1\HT3_201020614.pdb
+C:\Users\Lenovo\Google Drive\Archivos\Universidad\2022\Primer Semestre\AYD1\Lab\Hojas de trabajo\HT3\-AYD1-HojaDeTrabajo3_201020614\HT3_201020614\obj\Debug\netcoreapp3.1\HT3_201020614.genruntimeconfig.cache
